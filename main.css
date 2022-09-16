@@ -28,8 +28,7 @@ img{
 }
 .wrapper .container{
     max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 1rem;
+    text-align: center;
 }
 .search-container{
     background-color: var(--md-dark-color);
